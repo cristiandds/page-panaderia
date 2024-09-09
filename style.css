@@ -11,3 +11,35 @@ body{
 }
 
 
+.redes a img{
+    width: 40px;
+}
+
+.info{
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+header{
+    max-width: 1500px;
+    margin: auto;
+    display: flex;
+    padding: 30px;
+    justify-content: space-between;
+}
+
+nav ul{
+    display: flex;
+    list-style: none;
+}
+
+nav ul li{
+    margin: 0 20px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: #fff;
+}
